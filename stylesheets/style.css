@@ -122,7 +122,8 @@ text-decoration: none !important;
 }
 
 .logo-wrap{
-	width: 150px !important;
+	width: 126px !important;
+	margin-left: -12px;
 }
 .logo{
 	text-align:center;
