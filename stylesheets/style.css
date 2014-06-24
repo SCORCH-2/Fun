@@ -699,6 +699,8 @@ font-family:"Open_Sans_B";
 	padding: 50px 20px;
 	background: #fff url('../images/slants/dark-small.png') center top no-repeat;
 	border-top: solid 3px #111;
+	margin-left: 5px!important;
+	height: 410px;
 }
 .service-thumb > img{
 	width: 160px;
