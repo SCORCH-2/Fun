@@ -723,6 +723,7 @@ font-family:"Open_Sans_B";
 /*NEWS*/
 
 .news-block{
+	min-height: 600px!important;
 }
 .news-block-wrap{
 	background: #FFC000;
